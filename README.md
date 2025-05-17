@@ -11,7 +11,7 @@ A real-time chat room application built using modern web technologies.
 
 ## 🚀 Technologies Used
 
-- Frontend: HTML, CSS, JavaScript (or React if used)
+- Frontend: HTML, CSS, react
 - Backend: SpringBoot, Java
 - Real-time: Socket.io
 - Database: MongoDB 
